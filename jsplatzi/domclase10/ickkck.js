@@ -1,0 +1,1 @@
+document.write("ca e tu culo");
